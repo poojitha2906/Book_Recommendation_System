@@ -1,4 +1,4 @@
-# Book Recommender System Using Machine Learning | Collaborative Filtering Based
+# Book Recommender System Using Machine Learning
 
 
 Recommendation systems are becoming increasingly important in today’s busy world. The purpose of a recommendation system is to search for content that would be interesting to an individual, based on their profile, browsing history, and similarities with other users. This project focuses on collaborative filtering, a type of recommendation system that utilizes user-item interactions to make personalized book recommendations.
@@ -29,7 +29,7 @@ This project is a web application built with Streamlit that recommends books bas
 
 ## Dataset:
 
-The dataset used for this project can be found [here](https://www.kaggle.com/ra4u12/bookrecommendation).
+The dataset used for this project can be found [here](https://github.com/poojitha2906/Book_Recommendation_System/tree/main/data).
 
 ## Model Concept: Nearest Neighbors
 
